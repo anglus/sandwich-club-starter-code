@@ -101,6 +101,7 @@
             possible to use only a few spices (which many vendors do), the resulting meat is less
             flavourful.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roujiamo.jpg/800px-Roujiamo.jpg\",\"ingredients\":[\"Pork\",\"bread\"]}
         </item>
+        <!-- Original Shawarma data commented out because the image link isn't working.
         <item>{\"name\":{\"mainName\":\"Shawarma\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Middle East,
             Levant\",\"description\":\"Shawarma also spelled shawurma or shawerma, is a Levantine
             meat preparation, where lamb, chicken, turkey, beef, veal, or mixed meats are placed on
@@ -111,6 +112,21 @@
             with tabbouleh, fattoush, taboon bread, tomato, and cucumber. Toppings include tahini,
             hummus, pickled turnips, and
             amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Shawarmafood.jpg/800px-Shawarmafood.jpg\",\"ingredients\":[\"Shawarma
+            meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
+            bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
+        </item>
+        -->
+        <!-- Shawarma data with a working image link substituted in place of the broken link. -->
+        <item>{\"name\":{\"mainName\":\"Shawarma\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Middle East,
+            Levant\",\"description\":\"Shawarma also spelled shawurma or shawerma, is a Levantine
+            meat preparation, where lamb, chicken, turkey, beef, veal, or mixed meats are placed on
+            a spit (commonly a vertical spit in restaurants), and may be grilled for as long as a
+            day. Shavings are cut off the block of meat for serving, and the remainder of the block
+            of meat is kept heated on the rotating spit. Shawarma can be served on a plate
+            (generally with accompaniments), or as a sandwich or wrap. Shawarma is usually eaten
+            with tabbouleh, fattoush, taboon bread, tomato, and cucumber. Toppings include tahini,
+            hummus, pickled turnips, and
+            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/b/b4/Shawarma_%282223426004%29.jpg\",\"ingredients\":[\"Shawarma
             meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
             bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
         </item>
